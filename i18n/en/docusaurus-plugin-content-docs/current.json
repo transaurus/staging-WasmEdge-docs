@@ -1,0 +1,294 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.startSidebar.category.Getting Started with WasmEdge": {
+    "message": "Getting Started with WasmEdge",
+    "description": "The label for category Getting Started with WasmEdge in sidebar startSidebar"
+  },
+  "sidebar.startSidebar.category.Getting Started with WasmEdge.link.generated-index.description": {
+    "message": "In this chapter, we will show you how to get WasmEdge up and running quickly.",
+    "description": "The generated-index page description for category Getting Started with WasmEdge in sidebar startSidebar"
+  },
+  "sidebar.startSidebar.category.What is WasmEdge": {
+    "message": "What is WasmEdge",
+    "description": "The label for category What is WasmEdge in sidebar startSidebar"
+  },
+  "sidebar.startSidebar.category.What is WasmEdge.link.generated-index.description": {
+    "message": "WasmEdge is a WebAssembly runtime optimized for cloud-native and edge-native applications. It is a safe, fast, lightweight, and portable alternative to Linux containers in the cloud. It is also an ideal runtime for serverless functions, user-defined functions, embedded functions in application platforms and data pipelines.",
+    "description": "The generated-index page description for category What is WasmEdge in sidebar startSidebar"
+  },
+  "sidebar.startSidebar.category.WasmEdge Extensions": {
+    "message": "WasmEdge Extensions",
+    "description": "The label for category WasmEdge Extensions in sidebar startSidebar"
+  },
+  "sidebar.startSidebar.category.WasmEdge Extensions.link.generated-index.description": {
+    "message": "WasmEdge supports all standard WebAssembly and WASI specifications. In addition, it supports features and APIs that are crucial for the cloud-native use cases. WasmEdge is a superset of standard Wasm. Through its extension SDK, developers can easily add features they need to the WasmEdge Runtime as plugins.",
+    "description": "The generated-index page description for category WasmEdge Extensions in sidebar startSidebar"
+  },
+  "sidebar.startSidebar.category.Running with WasmEdge": {
+    "message": "Running with WasmEdge",
+    "description": "The label for category Running with WasmEdge in sidebar startSidebar"
+  },
+  "sidebar.startSidebar.category.Running with WasmEdge.link.generated-index.description": {
+    "message": "In this chapter, we will discuss WasmEdge CLIs and how to leverage Docker + WASM to run build, share, and run your WASM apps.",
+    "description": "The generated-index page description for category Running with WasmEdge in sidebar startSidebar"
+  },
+  "sidebar.startSidebar.category.WasmEdge Use-cases": {
+    "message": "WasmEdge Use-cases",
+    "description": "The label for category WasmEdge Use-cases in sidebar startSidebar"
+  },
+  "sidebar.startSidebar.category.WasmEdge Use-cases.link.generated-index.description": {
+    "message": "In this chapter, we will discuss use-cases of WasmEdge",
+    "description": "The generated-index page description for category WasmEdge Use-cases in sidebar startSidebar"
+  },
+  "sidebar.startSidebar.category.Serverless Platforms": {
+    "message": "Serverless Platforms",
+    "description": "The label for category Serverless Platforms in sidebar startSidebar"
+  },
+  "sidebar.startSidebar.category.Serverless Platforms.link.generated-index.description": {
+    "message": "Run WebAssembly as an alternative lightweight runtime side-by-side with Docker and microVMs in cloud native infrastructure",
+    "description": "The generated-index page description for category Serverless Platforms in sidebar startSidebar"
+  },
+  "sidebar.developSidebar.category.Develop WASM Apps in Rust": {
+    "message": "Develop WASM Apps in Rust",
+    "description": "The label for category Develop WASM Apps in Rust in sidebar developSidebar"
+  },
+  "sidebar.developSidebar.category.Develop WASM Apps in Rust.link.generated-index.description": {
+    "message": "Rust is well supported in the WebAssembly ecosystem. In this chapter, you will learn how to create Wasm apps in Rust.",
+    "description": "The generated-index page description for category Develop WASM Apps in Rust in sidebar developSidebar"
+  },
+  "sidebar.developSidebar.category.HTTP services": {
+    "message": "HTTP services",
+    "description": "The label for category HTTP services in sidebar developSidebar"
+  },
+  "sidebar.developSidebar.category.HTTP services.link.generated-index.description": {
+    "message": "Make HTTP requests and create HTTP servers in WasmEdge.",
+    "description": "The generated-index page description for category HTTP services in sidebar developSidebar"
+  },
+  "sidebar.developSidebar.category.Socket networking": {
+    "message": "Socket networking",
+    "description": "The label for category Socket networking in sidebar developSidebar"
+  },
+  "sidebar.developSidebar.category.Socket networking.link.generated-index.description": {
+    "message": "Run Tokio-based async Rust applications in WasmEdge.",
+    "description": "The generated-index page description for category Socket networking in sidebar developSidebar"
+  },
+  "sidebar.developSidebar.category.AI inference": {
+    "message": "AI inference",
+    "description": "The label for category AI inference in sidebar developSidebar"
+  },
+  "sidebar.developSidebar.category.AI inference.link.generated-index.description": {
+    "message": "Create AI inference functions in Rust, and run them in WasmEdge. Complete inference functions for mediapipe model libraries. Pytorch, Tensorflow, Tensorflow Lite, and OpenVINO model formats are supported.",
+    "description": "The generated-index page description for category AI inference in sidebar developSidebar"
+  },
+  "sidebar.developSidebar.category.Database drivers": {
+    "message": "Database drivers",
+    "description": "The label for category Database drivers in sidebar developSidebar"
+  },
+  "sidebar.developSidebar.category.Database drivers.link.generated-index.description": {
+    "message": "Connect to databases from Rust apps in WasmEdge.",
+    "description": "The generated-index page description for category Database drivers in sidebar developSidebar"
+  },
+  "sidebar.developSidebar.category.Develop WASM Apps in JavaScript": {
+    "message": "Develop WASM Apps in JavaScript",
+    "description": "The label for category Develop WASM Apps in JavaScript in sidebar developSidebar"
+  },
+  "sidebar.developSidebar.category.Develop WASM Apps in JavaScript.link.generated-index.description": {
+    "message": "Yes! You could run JavaScript programs in WasmEdge.",
+    "description": "The generated-index page description for category Develop WASM Apps in JavaScript in sidebar developSidebar"
+  },
+  "sidebar.developSidebar.category.Develop WASM Apps in C/C++": {
+    "message": "Develop WASM Apps in C/C++",
+    "description": "The label for category Develop WASM Apps in C/C++ in sidebar developSidebar"
+  },
+  "sidebar.developSidebar.category.Develop WASM Apps in C/C++.link.generated-index.description": {
+    "message": "In this chapter, we will learn how to create WASM apps in C/C++.",
+    "description": "The generated-index page description for category Develop WASM Apps in C/C++ in sidebar developSidebar"
+  },
+  "sidebar.developSidebar.category.Develop WASM Apps in Python": {
+    "message": "Develop WASM Apps in Python",
+    "description": "The label for category Develop WASM Apps in Python in sidebar developSidebar"
+  },
+  "sidebar.developSidebar.category.Develop WASM Apps in Python.link.generated-index.description": {
+    "message": "In this chapter, we will learn how to create WASM apps in Python.",
+    "description": "The generated-index page description for category Develop WASM Apps in Python in sidebar developSidebar"
+  },
+  "sidebar.developSidebar.category.Develop WASM Apps in Go": {
+    "message": "Develop WASM Apps in Go",
+    "description": "The label for category Develop WASM Apps in Go in sidebar developSidebar"
+  },
+  "sidebar.developSidebar.category.Develop WASM Apps in Go.link.generated-index.description": {
+    "message": "In this chapter, we will learn how to create WASM apps in Go.",
+    "description": "The generated-index page description for category Develop WASM Apps in Go in sidebar developSidebar"
+  },
+  "sidebar.developSidebar.category.Deploy WasmEdge apps in Kubernetes": {
+    "message": "Deploy WasmEdge apps in Kubernetes",
+    "description": "The label for category Deploy WasmEdge apps in Kubernetes in sidebar developSidebar"
+  },
+  "sidebar.developSidebar.category.Deploy WasmEdge apps in Kubernetes.link.generated-index.description": {
+    "message": "In this chapter, we will introduce how to depoloy WASM app using the exisiting container toolings.",
+    "description": "The generated-index page description for category Deploy WasmEdge apps in Kubernetes in sidebar developSidebar"
+  },
+  "sidebar.developSidebar.category.Low level runtime support": {
+    "message": "Low level runtime support",
+    "description": "The label for category Low level runtime support in sidebar developSidebar"
+  },
+  "sidebar.developSidebar.category.Low level runtime support.link.generated-index.description": {
+    "message": "In this chapter, we will introduce integrations between WasmEdge and low level runtimes,like containerd and crun.",
+    "description": "The generated-index page description for category Low level runtime support in sidebar developSidebar"
+  },
+  "sidebar.developSidebar.category.High level runtime support": {
+    "message": "High level runtime support",
+    "description": "The label for category High level runtime support in sidebar developSidebar"
+  },
+  "sidebar.developSidebar.category.High level runtime support.link.generated-index.description": {
+    "message": "In this chapter, we will introduce integrations between WasmEdge and high level runtimes,like containerd and CRI-O.",
+    "description": "The generated-index page description for category High level runtime support in sidebar developSidebar"
+  },
+  "sidebar.developSidebar.category.Manage LLM workloads on GPU": {
+    "message": "Manage LLM workloads on GPU",
+    "description": "The label for category Manage LLM workloads on GPU in sidebar developSidebar"
+  },
+  "sidebar.developSidebar.category.Manage LLM workloads on GPU.link.generated-index.description": {
+    "message": "In this chapter, we will demonstrate how to use container tools to mange LLM WasmEdge workloads on GPU.",
+    "description": "The generated-index page description for category Manage LLM workloads on GPU in sidebar developSidebar"
+  },
+  "sidebar.developSidebar.category.Kubernetes Use Cases": {
+    "message": "Kubernetes Use Cases",
+    "description": "The label for category Kubernetes Use Cases in sidebar developSidebar"
+  },
+  "sidebar.developSidebar.category.Kubernetes Use Cases.link.generated-index.description": {
+    "message": "In this chapter, we will discuss how popular software applications embed WasmEdge to support extended functionalities.",
+    "description": "The generated-index page description for category Kubernetes Use Cases in sidebar developSidebar"
+  },
+  "sidebar.embedSidebar.category.Quick Start": {
+    "message": "Quick Start",
+    "description": "The label for category Quick Start in sidebar embedSidebar"
+  },
+  "sidebar.embedSidebar.category.Quick Start.link.generated-index.description": {
+    "message": "In this chapter, we will introduce how to install and run the WASM app quickly with WasmEdge runtime.",
+    "description": "The generated-index page description for category Quick Start in sidebar embedSidebar"
+  },
+  "sidebar.embedSidebar.category.Passing Complex Data": {
+    "message": "Passing Complex Data",
+    "description": "The label for category Passing Complex Data in sidebar embedSidebar"
+  },
+  "sidebar.embedSidebar.category.Passing Complex Data.link.generated-index.description": {
+    "message": "Passing Complex Data from the host app to the wasm app",
+    "description": "The generated-index page description for category Passing Complex Data in sidebar embedSidebar"
+  },
+  "sidebar.embedSidebar.category.C SDK for Embedding WasmEdge": {
+    "message": "C SDK for Embedding WasmEdge",
+    "description": "The label for category C SDK for Embedding WasmEdge in sidebar embedSidebar"
+  },
+  "sidebar.embedSidebar.category.C SDK for Embedding WasmEdge.link.generated-index.description": {
+    "message": "In this chapter, we will learn how to embed WasmEdge with the C API.",
+    "description": "The generated-index page description for category C SDK for Embedding WasmEdge in sidebar embedSidebar"
+  },
+  "sidebar.embedSidebar.category.API Reference": {
+    "message": "API Reference",
+    "description": "The label for category API Reference in sidebar embedSidebar"
+  },
+  "sidebar.embedSidebar.category.API Reference.link.generated-index.description": {
+    "message": "In this chapter, we will discuss the WasmEdge Go API Reference.",
+    "description": "The generated-index page description for category API Reference in sidebar embedSidebar"
+  },
+  "sidebar.embedSidebar.category.Rust SDK for Embedding WasmEdge": {
+    "message": "Rust SDK for Embedding WasmEdge",
+    "description": "The label for category Rust SDK for Embedding WasmEdge in sidebar embedSidebar"
+  },
+  "sidebar.embedSidebar.category.Rust SDK for Embedding WasmEdge.link.generated-index.description": {
+    "message": "we will learn how to Embed WasmEdge in your Rust host applications",
+    "description": "The generated-index page description for category Rust SDK for Embedding WasmEdge in sidebar embedSidebar"
+  },
+  "sidebar.embedSidebar.category.Go SDK for Embedding WasmEdge": {
+    "message": "Go SDK for Embedding WasmEdge",
+    "description": "The label for category Go SDK for Embedding WasmEdge in sidebar embedSidebar"
+  },
+  "sidebar.embedSidebar.category.Go SDK for Embedding WasmEdge.link.generated-index.description": {
+    "message": "In this chapter, we will learn how to Embed WasmEdge in your Go host applications.",
+    "description": "The generated-index page description for category Go SDK for Embedding WasmEdge in sidebar embedSidebar"
+  },
+  "sidebar.embedSidebar.category.Java SDK for Embedding WasmEdge": {
+    "message": "Java SDK for Embedding WasmEdge",
+    "description": "The label for category Java SDK for Embedding WasmEdge in sidebar embedSidebar"
+  },
+  "sidebar.embedSidebar.category.Java SDK for Embedding WasmEdge.link.generated-index.description": {
+    "message": "In this chapter, we will learn how to Embed WasmEdge in your Java host applications.",
+    "description": "The generated-index page description for category Java SDK for Embedding WasmEdge in sidebar embedSidebar"
+  },
+  "sidebar.embedSidebar.category.C++ SDK for Embedding WasmEdge": {
+    "message": "C++ SDK for Embedding WasmEdge",
+    "description": "The label for category C++ SDK for Embedding WasmEdge in sidebar embedSidebar"
+  },
+  "sidebar.embedSidebar.category.C++ SDK for Embedding WasmEdge.link.generated-index.description": {
+    "message": "In this chapter, we will learn how to Embed WasmEdge in your C++ host applications.",
+    "description": "The generated-index page description for category C++ SDK for Embedding WasmEdge in sidebar embedSidebar"
+  },
+  "sidebar.embedSidebar.category.Python SDK for Embedding WasmEdge": {
+    "message": "Python SDK for Embedding WasmEdge",
+    "description": "The label for category Python SDK for Embedding WasmEdge in sidebar embedSidebar"
+  },
+  "sidebar.embedSidebar.category.Python SDK for Embedding WasmEdge.link.generated-index.description": {
+    "message": "In this chapter, we will learn how to Embed WasmEdge in your Python host applications.",
+    "description": "The generated-index page description for category Python SDK for Embedding WasmEdge in sidebar embedSidebar"
+  },
+  "sidebar.embedSidebar.category.Use Cases": {
+    "message": "Use Cases",
+    "description": "The label for category Use Cases in sidebar embedSidebar"
+  },
+  "sidebar.embedSidebar.category.Use Cases.link.generated-index.description": {
+    "message": "In this chapter, we will discuss how popular software applications embed WasmEdge to support extended functionalities.",
+    "description": "The generated-index page description for category Use Cases in sidebar embedSidebar"
+  },
+  "sidebar.embedSidebar.category.Plugin-User Guide": {
+    "message": "Plugin-User Guide",
+    "description": "The label for category Plugin-User Guide in sidebar embedSidebar"
+  },
+  "sidebar.embedSidebar.category.Plugin-User Guide.link.generated-index.description": {
+    "message": "We will learn how to use WasmEdge Plugin System.",
+    "description": "The generated-index page description for category Plugin-User Guide in sidebar embedSidebar"
+  },
+  "sidebar.contributeSidebar.category.Build WasmEdge from source": {
+    "message": "Build WasmEdge from source",
+    "description": "The label for category Build WasmEdge from source in sidebar contributeSidebar"
+  },
+  "sidebar.contributeSidebar.category.Build WasmEdge from source.link.generated-index.description": {
+    "message": "Here's the guides for building WasmEdge and its plug-ins from source on various platforms.",
+    "description": "The generated-index page description for category Build WasmEdge from source in sidebar contributeSidebar"
+  },
+  "sidebar.contributeSidebar.category.Supported Platforms": {
+    "message": "Supported Platforms",
+    "description": "The label for category Supported Platforms in sidebar contributeSidebar"
+  },
+  "sidebar.contributeSidebar.category.Supported Platforms.link.generated-index.description": {
+    "message": "We will learn how to build WasmEdge from source on different platfroms.",
+    "description": "The generated-index page description for category Supported Platforms in sidebar contributeSidebar"
+  },
+  "sidebar.contributeSidebar.category.Build and Run WasmEdge on Android": {
+    "message": "Build and Run WasmEdge on Android",
+    "description": "The label for category Build and Run WasmEdge on Android in sidebar contributeSidebar"
+  },
+  "sidebar.contributeSidebar.category.Build and Run WasmEdge on Android.link.generated-index.description": {
+    "message": "we will learn how to build and run WasmEdge on Android.",
+    "description": "The generated-index page description for category Build and Run WasmEdge on Android in sidebar contributeSidebar"
+  },
+  "sidebar.contributeSidebar.category.Build Plug-ins": {
+    "message": "Build Plug-ins",
+    "description": "The label for category Build Plug-ins in sidebar contributeSidebar"
+  },
+  "sidebar.contributeSidebar.category.Build Plug-ins.link.generated-index.description": {
+    "message": "In this chapter, we will learn how to build WasmEdge plug-ins from source.",
+    "description": "The generated-index page description for category Build Plug-ins in sidebar contributeSidebar"
+  },
+  "sidebar.contributeSidebar.category.WasmEdge Plugin System": {
+    "message": "WasmEdge Plugin System",
+    "description": "The label for category WasmEdge Plugin System in sidebar contributeSidebar"
+  },
+  "sidebar.contributeSidebar.category.WasmEdge Plugin System.link.generated-index.description": {
+    "message": "We will learn how to develop the plug-ins for WasmEdge.",
+    "description": "The generated-index page description for category WasmEdge Plugin System in sidebar contributeSidebar"
+  }
+}

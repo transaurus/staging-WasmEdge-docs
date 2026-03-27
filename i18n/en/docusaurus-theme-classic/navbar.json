@@ -1,0 +1,26 @@
+{
+  "title": {
+    "message": "WasmEdge",
+    "description": "The title in the navbar"
+  },
+  "logo.alt": {
+    "message": "WasmEdge Logo",
+    "description": "The alt text of navbar logo"
+  },
+  "item.label.Getting Started": {
+    "message": "Getting Started",
+    "description": "Navbar item with label Getting Started"
+  },
+  "item.label.Develop": {
+    "message": "Develop",
+    "description": "Navbar item with label Develop"
+  },
+  "item.label.Embed": {
+    "message": "Embed",
+    "description": "Navbar item with label Embed"
+  },
+  "item.label.Extend": {
+    "message": "Extend",
+    "description": "Navbar item with label Extend"
+  }
+}
