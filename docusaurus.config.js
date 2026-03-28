@@ -12,7 +12,7 @@ const config = {
     tagline: 'Serverless functions anywhere in the cloud, in data / AI pipelines, in SaaS platforms, and on edge devices.',
     url: 'https://wasmedge.org/',
     baseUrl: '/docs/',
-    onBrokenLinks: 'throw',
+    onBrokenLinks: 'warn',
     onBrokenMarkdownLinks: 'warn',
 
     favicon: 'img/favicon.ico',
@@ -27,7 +27,7 @@ const config = {
     // to replace "en" with "zh-Hans".
     i18n: {
         defaultLocale: 'en',
-        locales: ['en', 'zh', 'zh-TW'],
+        locales: ["en", "zh-Hans"],
         localeConfigs: {
             en: {
                 label: 'English'
